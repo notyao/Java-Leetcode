@@ -60,10 +60,16 @@
 [note]: https://github.com/Blankj/awesome-java-leetcode/tree/master/note
 [companies]: https://github.com/Blankj/awesome-java-leetcode/blob/master/Companies.md
 
+[009]: https://github.com/notyao/Java-Leetcode/blob/master/PalindromeNumber.java
+[013]: https://github.com/notyao/Java-Leetcode/blob/master/RomanToInteger.java
+[014]: https://github.com/notyao/Java-Leetcode/blob/master/LongestCommonPrefix.java
+[083]: https://github.com/notyao/Java-Leetcode/blob/master/RemoveDuplicatesFromSortedList.java
 [141]: https://github.com/notyao/Java-Leetcode/blob/master/LinkedListCycle.java
 [160]: https://github.com/notyao/Java-Leetcode/blob/master/IntersectionOfTwoLinkedLists.java
+[203]: https://github.com/notyao/Java-Leetcode/blob/master/RemoveDuplicatesFromSortedList.java
 [237]: https://github.com/notyao/Java-Leetcode/blob/master/DeleteNodeInALinkedList.java
 [520]: https://github.com/notyao/Java-Leetcode/blob/master/DetectCapital.java
+[680]: https://github.com/notyao/Java-Leetcode/blob/master/ValidPalindromeII.java
 
 
 [002]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/002/README.md
