@@ -60,8 +60,10 @@
 [note]: https://github.com/Blankj/awesome-java-leetcode/tree/master/note
 [companies]: https://github.com/Blankj/awesome-java-leetcode/blob/master/Companies.md
 
-[001]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/001/README.md
-[007]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/007/README.md
+[141]: https://github.com/notyao/Java-Leetcode/blob/master/LinkedListCycle.java
+[160]: https://github.com/notyao/Java-Leetcode/blob/master/IntersectionOfTwoLinkedLists.java
+[237]: https://github.com/notyao/Java-Leetcode/blob/master/DeleteNodeInALinkedList.java
+[520]: https://github.com/notyao/Java-Leetcode/blob/master/DetectCapital.java
 
 
 [002]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/002/README.md
