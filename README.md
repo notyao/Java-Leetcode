@@ -9,6 +9,7 @@
 |9|[Palindrome Number][009]|Math|
 |13|[Roman to Integer][013]|Math, String|
 |14|[Longest Common Prefix][014]|String|
+|21|[Merge Two Sorted Lists][021]|Linked List|
 |28|[Implement strStr()][028]|Two Pointers, String|
 |38|[Count and Say][038]|String|
 |58|[Length of Last Word][058]|String|
@@ -65,6 +66,7 @@
 [009]: https://github.com/notyao/Java-Leetcode/blob/master/PalindromeNumber.java
 [013]: https://github.com/notyao/Java-Leetcode/blob/master/RomanToInteger.java
 [014]: https://github.com/notyao/Java-Leetcode/blob/master/LongestCommonPrefix.java
+[021]: https://github.com/notyao/Java-Leetcode/blob/master/MergeTwoSortedLists.java
 [083]: https://github.com/notyao/Java-Leetcode/blob/master/RemoveDuplicatesFromSortedList.java
 [141]: https://github.com/notyao/Java-Leetcode/blob/master/LinkedListCycle.java
 [160]: https://github.com/notyao/Java-Leetcode/blob/master/IntersectionOfTwoLinkedLists.java
