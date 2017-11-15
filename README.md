@@ -64,18 +64,18 @@
 [companies]: https://github.com/Blankj/awesome-java-leetcode/blob/master/Companies.md
 
 [009]: https://github.com/notyao/Java-Leetcode/blob/master/PalindromeNumber.java
-[013]: https://github.com/notyao/Java-Leetcode/blob/master/RomanToInteger.java
-[014]: https://github.com/notyao/Java-Leetcode/blob/master/LongestCommonPrefix.java
-[021]: https://github.com/notyao/Java-Leetcode/blob/master/MergeTwoSortedLists.java
-[083]: https://github.com/notyao/Java-Leetcode/blob/master/RemoveDuplicatesFromSortedList.java
-[141]: https://github.com/notyao/Java-Leetcode/blob/master/LinkedListCycle.java
-[160]: https://github.com/notyao/Java-Leetcode/blob/master/IntersectionOfTwoLinkedLists.java
-[203]: https://github.com/notyao/Java-Leetcode/blob/master/RemoveDuplicatesFromSortedList.java
-[206]: https://github.com/notyao/Java-Leetcode/blob/master/ReverseLinkedList.java
-[234]: https://github.com/notyao/Java-Leetcode/blob/master/PalindromeLinkedList.java
+[013]: https://github.com/notyao/Java-Leetcode/blob/master/String/RomanToInteger.java
+[014]: https://github.com/notyao/Java-Leetcode/blob/master/String/LongestCommonPrefix.java
+[021]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/MergeTwoSortedLists.java
+[083]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/RemoveDuplicatesFromSortedList.java
+[141]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/LinkedListCycle.java
+[160]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/IntersectionOfTwoLinkedLists.java
+[203]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/RemoveLinkedListElements.java
+[206]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/ReverseLinkedList.java
+[234]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/PalindromeLinkedList.java
 [237]: https://github.com/notyao/Java-Leetcode/blob/master/DeleteNodeInALinkedList.java
-[520]: https://github.com/notyao/Java-Leetcode/blob/master/DetectCapital.java
-[680]: https://github.com/notyao/Java-Leetcode/blob/master/ValidPalindromeII.java
+[520]: https://github.com/notyao/Java-Leetcode/blob/master/String/DetectCapital.java
+[680]: https://github.com/notyao/Java-Leetcode/blob/master/String/ValidPalindromeII.java
 
 
 [002]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/002/README.md
