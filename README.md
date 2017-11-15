@@ -19,8 +19,8 @@
 |175|[Count and Say][175]|String|
 |189|[Rotate Array][189]|Array|
 |203|[Remove Linked List Elements][203]|Linked List|
-|237|[Delete Node in a Linked List][237]|Linked List, Two Pointers|
-|234|[Palindrome Linked List][234]|Linked List|
+|234|[Palindrome Linked List][234]|Linked List, Two Pointers|
+|237|[Delete Node in a Linked List][237]|Linked List|
 |344|[Reverse String][344]|Two Pointers, String|
 |520|[Detect Capital][520]|String|
 |680|[Valid Palindrome II][680]|String|
