@@ -9,6 +9,7 @@
 |9|[Palindrome Number][009]|Math|
 |13|[Roman to Integer][013]|Math, String|
 |14|[Longest Common Prefix][014]|String|
+|20|[Valid Parentheses][020]|String, Stack|
 |21|[Merge Two Sorted Lists][021]|Linked List|
 |28|[Implement strStr()][028]|Two Pointers, String|
 |38|[Count and Say][038]|String|
@@ -25,6 +26,7 @@
 |237|[Delete Node in a Linked List][237]|Linked List|
 |344|[Reverse String][344]|Two Pointers, String|
 |520|[Detect Capital][520]|String|
+|551|[Student Attendance Record I][551]|String|
 |680|[Valid Palindrome II][680]|String|
 
 
@@ -36,6 +38,7 @@
 
 |#|Title|Tag|
 |:------------- |:------------- |:------------- |
+|61|[Rotate List][061]|Two Pointers, Linked List|
 |75|[Sort Colors][075]|Array, Two Pointers, Sort|
 |102|[Binary Tree Level Order Traversal][102]|Tree, Depth-first Search|
 |215|[Kth Largest Element in an Array][215]|Divide and Conquer, Heap|
@@ -45,14 +48,11 @@
 
 
 
-
-
-
-
 ## Hard
 
 |#|Title|Tag|
 |:------------- |:------------- |:------------- |
+
 
 
 
@@ -78,7 +78,7 @@
 [680]: https://github.com/notyao/Java-Leetcode/blob/master/String/ValidPalindromeII.java
 
 
-[002]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/002/README.md
+[061]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/002/README.md
 [554]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/554/README.md
 
 [004]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/004/README.md
