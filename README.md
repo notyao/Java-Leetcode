@@ -66,6 +66,7 @@
 [009]: https://github.com/notyao/Java-Leetcode/blob/master/PalindromeNumber.java
 [013]: https://github.com/notyao/Java-Leetcode/blob/master/String/RomanToInteger.java
 [014]: https://github.com/notyao/Java-Leetcode/blob/master/String/LongestCommonPrefix.java
+[020]: https://github.com/notyao/Java-Leetcode/blob/master/String/ValidParentheses.java
 [021]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/MergeTwoSortedLists.java
 [083]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/RemoveDuplicatesFromSortedList.java
 [141]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/LinkedListCycle.java
@@ -75,10 +76,11 @@
 [234]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/PalindromeLinkedList.java
 [237]: https://github.com/notyao/Java-Leetcode/blob/master/DeleteNodeInALinkedList.java
 [520]: https://github.com/notyao/Java-Leetcode/blob/master/String/DetectCapital.java
+[551]: https://github.com/notyao/Java-Leetcode/blob/master/String/StudentAttendanceRecord.java
 [680]: https://github.com/notyao/Java-Leetcode/blob/master/String/ValidPalindromeII.java
 
 
-[061]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/002/README.md
+[061]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/RotateList.java
 [554]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/554/README.md
 
 [004]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/004/README.md
