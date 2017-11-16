@@ -68,6 +68,7 @@
 [014]: https://github.com/notyao/Java-Leetcode/blob/master/String/LongestCommonPrefix.java
 [020]: https://github.com/notyao/Java-Leetcode/blob/master/String/ValidParentheses.java
 [021]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/MergeTwoSortedLists.java
+[028]: https://github.com/notyao/Java-Leetcode/blob/master/String/ImplementstrStr.java
 [083]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/RemoveDuplicatesFromSortedList.java
 [141]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/LinkedListCycle.java
 [160]: https://github.com/notyao/Java-Leetcode/blob/master/Linked%20List/IntersectionOfTwoLinkedLists.java
